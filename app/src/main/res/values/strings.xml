@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Reza Aditya Sutrisno</string>
+    <string name="search_for_some_users">Search User</string>
+    <string name="search">Search</string>
+    <string name="image_dec">User profile pic</string>
+    <string name="user_not_found">User not found</string>
+    <string name="connection_error">Connection error! Please wait 1 minute before make another request</string>
+    <string name="no_connection_error">Connection error! Please check your internet connection</string>
+    <string name="user_id">ID: %d</string>
+    <string name="followers_place">FOLLOWERS</string>
+    <string name="repos_place">REPOS</string>
+    <string name="following_place">FOLLOWING</string>
+</resources>
